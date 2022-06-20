@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IsoriX"]
+	path = IsoriX
+	url = https://github.com/courtiol/isorix
+	shallow = true
+	subdir = IsoriX
+	registered = true
