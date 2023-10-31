@@ -6,3 +6,6 @@
 	path = IsoriX
 	url = https://github.com/courtiol/isorix
 	subdir = IsoriX
+[submodule "lay"]
+	path = lay
+	url = https://github.com/courtiol/lay
