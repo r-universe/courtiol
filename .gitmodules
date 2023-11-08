@@ -9,3 +9,6 @@
 [submodule "lay"]
 	path = lay
 	url = https://github.com/courtiol/lay
+[submodule "timevarcorr"]
+	path = timevarcorr
+	url = https://github.com/courtiol/timevarcorr
